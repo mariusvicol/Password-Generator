@@ -1,11 +1,11 @@
 # Password-Generator
 Simple CLI Shell Password Generator
 
-USAGE
-  - Download password-generator.sh
+INSTALATION AND USAGE
+  - Download password_generator.sh
   - cd Downloads
-  - chmod +x password-generator.sh
-  - ./password-generator.sh
+  - chmod +x password_generator.sh
+  - ./password_generator.sh
 You can use
   - -l (number) for a specified length
   - -n to include numbers
