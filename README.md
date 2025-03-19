@@ -7,6 +7,7 @@
   - chmod +x password_generator.sh
   - ./password_generator.sh
 You can also use: 
-  - -l (number) for a specified length
-  - -n to include numbers
-  - -s to include special charachters
+    - -l (number) for a specified length
+    - -n to include numbers
+    - -s to include special charachters
+    - -u to include uppercase letters
